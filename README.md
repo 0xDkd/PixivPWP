@@ -36,13 +36,21 @@ GPL V3
 
 如果你想要使用这个小程序，你需要按照一下的步骤进行
 1.首先，你必须要要有python环境，这是最重要的！
+
 2. ```git clone git@github.com:aimerforreimu/PixivPWP.git```
+
 3. ```cd PixivPWP ```
+
 4. ```pip install -r requirement.txt ```
+
 5. 编辑```uploader.py ``` 中的109行，添写你自己的id和token
+
 6. Edit ```wp_db.py``` 中的18行，让他成为你自己的wordpress相关信息
+
 7. ```python pixivDay.py``` 
+
 8. ```python auto_post.py``` 填入你想要发布到你自己网站的图片，然后等程序结束以后，检查一下你网站的文章，你会感到很神奇（滑稽）
+
 
 ENJOY IT! :)
 
