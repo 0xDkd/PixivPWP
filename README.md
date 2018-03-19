@@ -2,10 +2,10 @@
 
 Hi,this is an simple tool to reduce the pressure of your manage your websit content~
 
-## Instructions：
+## Instructions
 
 We used the main code of ![this program](https://github.com/tangrela/k1kmz) to achieve the function of acquiring N images of the pixiv daily TOP list. Here I pay tribute to the original author.
----
+
 If you want to use this program, you should use the following steps to use
 1. Your must install python ,it is important!
 2. ```git clone git@github.com:aimerforreimu/PixivPWP.git```
